@@ -10,7 +10,7 @@
 
 let config, vars, app, loops, gui;
 config = {
-    message: "Free Hack at 'iohack.webnode.fr'",
+    message: "youareanidiot.cc",
     autoTarget: true,
     autoAttack: true,
     db: "https://raw.githubusercontent.com/snollygolly/sourceio-automation/master/db.json",
